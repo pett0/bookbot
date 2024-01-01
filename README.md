@@ -1,1 +1,3 @@
-# bookbot
+# BookBot
+
+some simple project
